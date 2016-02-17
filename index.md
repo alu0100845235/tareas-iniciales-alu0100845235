@@ -1,56 +1,69 @@
-Tutorial NodeJS, Express, Atom, GitHub, Cloud9 y Markdown
-======================================================
+#Tutorial de instalación de NodeJS, Express, Atom, GitHub, Cloud9 y Markdown en MacOSX
 
-## Instalación de NodeJS en Windows
+## Instalación de NodeJS
 
-Es un intérprete **Javascript** del lado del servidor que cambia la noción de cómo debería trabajar un servidor. Su meta es permitir a un programador construir aplicaciones altamente escalables y escribir código que maneje decenas de miles de conexiones simultáneas en una sólo una máquina física.
+1. Descargamos el instalador desde la web https://nodejs.org/en/
+2. Una vez descargado procedemos a las instalación.
+3. Por último, abrimos un Terminal y escribimos node.
 
-Para empezar a utilizarlo descargar el paquete de instalación para la plataforma windows y seguir los pasos del asistente de instalación de **NodeJS**.
+![Paso 1](images/node1.png) ![Paso 3](images/node1.png)
 
-![](images/node.png)
 
-Abrimos la consola de **NodeJS** y comprobamos que se ha instalado correctamente, aparecerá el siguiente mensaje que indica que se ha instalado.
+## Instalación de Express (Necesario tener NodeJS instalado)
 
-Instalamos el framework **Express** con la consola de **NodeJS** y el siguiente comando:
+1. Abrimos un Terminal y ejecutamos los siguientes comandos:
+    * sudo npm install -g express
+    * sudo npm install -g express-generator
+2. Ahora comprobamos que este correctamente instalardo ejecutando express.
 
-**Comando**
-
-> `npm install express --save`
-
-![](images/node2.png)
-
-## Instalación del editor de texto Atom
-
-Usaremos **Atom** como editor de texto para el desarrollo de nuestros proyectos, para ello descargamos el instalador en la página oficial de atom, y a continuación ejecutamos el asistente de instalación.
-
-![](images/atom1.png)
-
-Dado que vamos a utilizar el formato **Markdown** es bueno saber que en **Atom** podremos obtener una preview del contenido de nuestro fichero Markdown ya que incorpora el formato **GitHub Markdown** con el comando:
-
-**Comando**
-
-> * Markdown preview `ctrl+shift+m`
-> * Markdown export to HTML `Save As HTML`
-
+![Paso 2](images/express1.png)
 
 
 ## Instalación de GitHub Desktop
 
-GitHub es una plataforma para alojar proyectos utilizando el sistema de control de versiones **Git**. Para instalarlo accedemos a la página oficial de **GitHub** y descargamos el instalador que ejecutaremos posteriormente para iniciar el asistente de instalación.
+1. Descargamos el instalador desde la web https://desktop.github.com
+2. Opcionalmente, movemos el archivo descargado a la carpeta de Aplicaciones
+3. Ejecutamos la aplicación y iniciamos sesión con nuestro usurio de GitHub.
 
-![](images/git.png)
+![Paso 1](images/git1.png) ![Paso 3](images/git2.png)
 
-Una vez instalado configuramos nuestra cuenta de **GitHub** en la aplicación para poder sincronizar nuestro repositorio tanto local como remoto, en caso de no tener cuenta crearemos una en la página de **GitHub**.
+
+## Instalación del editor de texto Atom
+
+1. Descargamos el instalador desde la web https://atom.io
+2. Opcionalmente, movemos el archivo descargado a la carpeta de Aplicaciones
+3. Ejecutamos la aplicación.
+
+![Paso 1](images/atom1.png)
+
+
+## Instalación del paquete Emmet para Atom
+
+1. Abrimos Atom y navegamos por el menú Atom - Preferences - Packages
+2. En el campo de busqueda que sale en la ventana derecha escribimos emmet
+3. En el resultado, con el paquete de emmet hacemos click en instalar.
+
+![Paso 2](images/emmet1.png)
+
+
+## Instalación del Pandoc
+
+1. Descargamos el instalador desde la web http://pandoc.org
+2. Instalamos el paquete descargado.
+3. Ejecutamos el siguiente comando en el terminal: pandoc --help
+
+![Paso 3](images/pando1.png)
+
 
 ## Cloud 9
 
 Es un IDE de desarrollo online, para su uso será necesario crear una cuenta en la página oficial o acceder con las credenciales de GitHub si ya se dispone de una cuenta. Una vez registrados podremos crear proyectos de varias tecnologías como puede ser NodeJS, HTML5, C++, Ruby On Rails, etc.
 
-![](images/cloud.png)
+[](images/cloud.png)
 
 Si disponemos de algún proyecto en un repositorio de GitHub podremos asociarlo a **Cloud9** para trabajar en él tan solo creando un “`nuevo workspace`” y añadiendo la url *git* del correspondiente repositorio.
 
-![](images/cloud2.png)
+[](images/cloud2.png)
 
 Además **Cloud9** permite el trabajo en equipo en el IDE añadiendo miembros a tu workspace.
 
@@ -98,3 +111,4 @@ Listas
 * [GitHub Pages](https://pages.github.com/)
 * [Cloud 9 IDE](https://c9.io)
 * [Markdown](http://daringfireball.net/projects/markdown/)
+* [Resultado del Markdown HTML](http://alu0100536652.github.io/Tutorial-STW/)
