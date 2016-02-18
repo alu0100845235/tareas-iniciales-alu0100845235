@@ -6,7 +6,7 @@
 2. Una vez descargado procedemos a las instalación.
 3. Por último, abrimos un Terminal y escribimos node.
 
-<img src="images/node1.png" width="50%" height="50%"/> <img src="images/node2.png" width="50%" height="50%"/>
+<img src="images/node1.png" width="45%" height="45%"/> <img src="images/node2.png" width="45%" height="45%"/>
 
 ## Instalación de Express (Necesario tener NodeJS instalado)
 
@@ -23,7 +23,7 @@
 2. Opcionalmente, movemos el archivo descargado a la carpeta de Aplicaciones
 3. Ejecutamos la aplicación y iniciamos sesión con nuestro usurio de GitHub.
 
-<img src="images/git1.png" width="50%" height="50%"/> <img src="images/git2.png" width="50%" height="50%"/>
+<img src="images/git1.png" width="45%" height="45%"/> <img src="images/git2.png" width="45%" height="45%"/>
 
 ## Instalación del editor de texto Atom
 
@@ -59,7 +59,7 @@
 6. Ahora vamos a la pantalla principal de nuestra cuenta y seleccionamos Repositories.
 7. Seleccionamos los repositorios que queremos clonar.
 
-<img src="images/cloud1.png" width="50%" height="50%"/> <img src="images/cloud2.png" width="50%" height="50%"/>
+<img src="images/cloud1.png" width="45%" height="45%"/> <img src="images/cloud2.png" width="45%" height="45%"/>
 
 ## Uso de Markdown (Sintaxis)
 
