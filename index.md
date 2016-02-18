@@ -6,7 +6,7 @@
 2. Una vez descargado procedemos a las instalación.
 3. Por último, abrimos un Terminal y escribimos node.
 
-<img src="images/node1.png" width="30%" height="30%"/> <img src="images/node2.png" width="30%" height="30%"/>
+<img src="images/node1.png" width="40%" height="40%"/> <img src="images/node2.png" width="40%" height="40%"/>
 
 ## Instalación de Express (Necesario tener NodeJS instalado)
 
@@ -15,7 +15,7 @@
     * `sudo npm install -g express-generator`
 2. Ahora comprobamos que este correctamente instalado ejecutando **Express**.
 
-<img src="images/express1.png" width="50%" height="50%"/>
+<img src="images/express1.png" width="60%" height="60%"/>
 
 ## Instalación de GitHub Desktop
 
@@ -23,7 +23,7 @@
 2. Opcionalmente, movemos el archivo descargado a la carpeta de Aplicaciones
 3. Ejecutamos la aplicación y iniciamos sesión con nuestro usurio de GitHub.
 
-<img src="images/git1.png" width="30%" height="30%"/> <img src="images/git2.png" width="30%" height="30%"/>
+<img src="images/git1.png" width="40%" height="40%"/> <img src="images/git2.png" width="40%" height="40%"/>
 
 ## Instalación del editor de texto Atom
 
@@ -31,7 +31,7 @@
 2. Opcionalmente, movemos el archivo descargado a la carpeta de Aplicaciones
 3. Ya podemos ejecutar la aplicación.
 
-<img src="images/atom1.png" width="50%" height="50%"/>
+<img src="images/atom1.png" width="60%" height="60%"/>
 
 ## Instalación del paquete Emmet para Atom
 
@@ -39,7 +39,7 @@
 2. En el campo de busqueda que sale en la ventana derecha escribimos emmet
 3. En el resultado, con el paquete de emmet hacemos click en instalar.
 
-<img src="images/emmet1.png" width="50%" height="50%"/>
+<img src="images/emmet1.png" width="60%" height="60%"/>
 
 ## Instalación del Pandoc
 
@@ -47,7 +47,7 @@
 2. Instalamos el paquete descargado.
 3. Ejecutamos el siguiente comando en el terminal: **pandoc --help**
 
-<img src="images/pandoc1.png" width="50%" height="50%"/>
+<img src="images/pandoc1.png" width="60%" height="60%"/>
 
 ## Cloud9 - Vincular con GitHub
 
@@ -59,7 +59,7 @@
 6. Ahora vamos a la pantalla principal de nuestra cuenta y seleccionamos Repositories.
 7. Seleccionamos los repositorios que queremos clonar.
 
-<img src="images/cloud1.png" width="30%" height="30%"/> <img src="images/cloud2.png" width="30%" height="30%"/>
+<img src="images/cloud1.png" width="40%" height="40%"/> <img src="images/cloud2.png" width="40%" height="40%"/>
 
 ## Uso de Markdown (Sintaxis)
 
