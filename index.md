@@ -5,8 +5,8 @@
 1. Descargamos el instalador desde la web de [NodeJS](https://nodejs.org/en/)
 2. Una vez descargado procedemos a las instalación.
 3. Por último, abrimos un Terminal y escribimos node.
-![](images/node1.png) ![](images/node2.png)
 
+<img src="images/node1.png" width="45%" height="45%"/> <img src="images/node2.png" width="45%" height="45%"/>
 
 ## Instalación de Express (Necesario tener NodeJS instalado)
 
@@ -14,40 +14,40 @@
     * `sudo npm install -g express`
     * `sudo npm install -g express-generator`
 2. Ahora comprobamos que este correctamente instalado ejecutando **Express**.
-![](images/express1.png)
 
+<img src="images/express1.png" width="65%" height="65%"/>
 
 ## Instalación de GitHub Desktop
 
 1. Descargamos el instalador desde la web de [GitHub Desktop](https://desktop.github.com)
 2. Opcionalmente, movemos el archivo descargado a la carpeta de Aplicaciones
 3. Ejecutamos la aplicación y iniciamos sesión con nuestro usurio de GitHub.
-![](images/git1.png) ![](images/git2.png)
 
+<img src="images/git1.png" width="45%" height="45%"/> <img src="images/git2.png" width="45%" height="45%"/>
 
 ## Instalación del editor de texto Atom
 
 1. Descargamos el instalador desde la web de [Atom](https://atom.io)
 2. Opcionalmente, movemos el archivo descargado a la carpeta de Aplicaciones
 3. Ya podemos ejecutar la aplicación.
-![](images/atom1.png)
 
+<img src="images/atom1.png" width="65%" height="65%"/>
 
 ## Instalación del paquete Emmet para Atom
 
 1. Abrimos Atom y navegamos por el menú Atom - Preferences - Packages
 2. En el campo de busqueda que sale en la ventana derecha escribimos emmet
 3. En el resultado, con el paquete de emmet hacemos click en instalar.
-![](images/emmet1.png)
 
+<img src="images/emmet1.png" width="65%" height="65%"/>
 
 ## Instalación del Pandoc
 
 1. Descargamos el instalador desde la web de [Pandoc](http://pandoc.org)
 2. Instalamos el paquete descargado.
 3. Ejecutamos el siguiente comando en el terminal: **pandoc --help**
-![](images/pandoc1.png)
 
+<img src="images/pandoc1.png" width="65%" height="65%"/>
 
 ## Cloud9 - Vincular con GitHub
 
@@ -59,7 +59,7 @@
 6. Ahora vamos a la pantalla principal de nuestra cuenta y seleccionamos Repositories.
 7. Seleccionamos los repositorios que queremos clonar.
 
-![](images/cloud1.png) ![](images/cloud2.png)
+<img src="images/cloud1.png" width="45%" height="45%"/> <img src="images/cloud2.png" width="45%" height="45%"/>
 
 ## Uso de Markdown (Sintaxis)
 
