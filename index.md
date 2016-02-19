@@ -1,4 +1,4 @@
-#Tutorial de instalación de NodeJS, Express, Atom, GitHub, Cloud9 y Markdown en MacOSX
+# Tutorial de instalación de las herramientas y tecnologías a utilizar en la asignatura Procesadores de Lenguajes (MacOSX)
 
 ## Instalación de NodeJS
 
