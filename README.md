@@ -1,14 +1,23 @@
 ## Tarea Inicial
 
-Configuración de las herramientas y tecnologías a utilizar en la asignatura Sistemas y Tecnologías Webs.
+Instalación de las herramientas y tecnologías a utilizar en la asignatura Procesadores de Lenguajes.
 
 * NodeJS
 * Express
+* GitHub Desktop
 * Atom
-* GitHub
+* Emmet para Atom
+* Pandoc
 * Cloud9
 * Markdown
 
-[Página personal de prácticas](http://alu0100845235.github.io/)
-
 [Página de la práctica inicial](http://alu0100845235.github.io/tareas-iniciales-alu0100845235/)
+
+
+### Desarollador
+
+Ruymán Rodríguez Martín (alu0100845235@ull.edu.es)
+
+[Página personal](http://alu0100845235.github.io/)
+
+
