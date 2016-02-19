@@ -1,4 +1,4 @@
-## Tarea Inicial
+## Procesadores de Lenguajes: Tarea Inicial
 
 Instalación de las herramientas y tecnologías a utilizar en la asignatura Procesadores de Lenguajes.
 
@@ -14,10 +14,8 @@ Instalación de las herramientas y tecnologías a utilizar en la asignatura Proc
 [Página de la práctica inicial](http://alu0100845235.github.io/tareas-iniciales-alu0100845235/)
 
 
-### Desarollador
+### Desarrollador
 
 Ruymán Rodríguez Martín (alu0100845235@ull.edu.es)
 
 [Página personal](http://alu0100845235.github.io/)
-
-
